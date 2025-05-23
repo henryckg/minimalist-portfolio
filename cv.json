@@ -173,12 +173,22 @@
   ],
   "projects": [
     {
+      "name": "Córtame",
+      "isActive": true,
+      "description": "Aplicación web para crear enlaces cortos, generar QR y analizar el rendimiento potenciado con IA.",
+      "highlights": [
+        "Astro, Tailwind, Turso",
+        "En desarrollo"
+      ],
+      "url": "https://cortame-app.vercel.app/",
+      "github": "https://github.com/henryckg/cortame-app"
+    },
+    {
       "name": "Motorplan",
       "isActive": true,
       "description": "Aplicación web dinámica de una empresa de capitalización y ahorro, diseñada para resaltar la marca y permitir a los usuarios visualizar adjudicaciones de manera intuitiva y eficiente.",
       "highlights": [
-        "Astro, React, Tailwind",
-        "En desarrollo"
+        "Astro, React, Tailwind"
       ],
       "url": "https://motorplan-web.vercel.app/",
       "github": "https://github.com/Master-Insight/motorplan-web"
