@@ -29,6 +29,16 @@
   },
   "work": [
     {
+      "name": "Freelance",
+      "position": "Desarrollador Full Stack",
+      "url": "",
+      "startDate": "2023-11-01",
+      "summary": "Desarrollo y mantenimiento de sitios y aplicaciones web a medida para clientes, incluyendo la maquetación en HTML y CSS, creación de APIs e integración con servicios externos. Implementación y administración de bases de datos SQL y NoSQL según los requerimientos de cada proyecto. Webmaster de sitios en WordPress, gestionando contenidos, optimización de rendimiento, personalización de temas y funcionalidades.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
       "name": "Musicland Chile",
       "position": "Administrador Web",
       "url": "https://musicland.cl",
