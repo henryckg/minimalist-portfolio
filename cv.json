@@ -177,6 +177,14 @@
   ],
   "projects": [
     {
+      "name": "AI PDF Translator",
+      "isActive": true,
+      "description": "Web app para traducir PDF y EPUB. Desarrollada con Next.js, Tailwind y el SDK de AI de Vercel para ofrecer traducciones rápidas y precisas.",
+      "highlights": ["En desarrollo", "Vibe Coding 🧠"],
+      "url": "https://pdf-ai-translator.vercel.app/",
+      "github": "https://github.com/henryckg/pdf-ai-translator"
+    },
+    {
       "name": "Córtame",
       "isActive": true,
       "description": "Aplicación web para crear enlaces cortos, generar códigos QR y analizar el rendimiento potenciado con IA.",
